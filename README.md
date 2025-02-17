@@ -29,17 +29,4 @@ Install dependencies
 Run the app
 - flutter run
 
-📂 Project Structure
-│── lib/                  # Main application code
-│   ├── const/            # Constants and configurations
-│   ├── models/           # Data models
-│   ├── screens/          # UI screens
-│   ├── services/         # API & backend services
-│   ├── user_auth/        # Firebase authentication
-│   │   ├── firebase_auth_implementation/
-│   ├── utils/            # Utility functions
-│   ├── widgets/          # Reusable UI components
-│── assets/               # Images, icons, fonts
-│── pubspec.yaml          # Dependencies & assets
-│── main.dart             # Entry point
 
