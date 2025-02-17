@@ -1,20 +1,31 @@
-<<<<<<< HEAD
-# mobile-app-flutter
-=======
-# madproject
+🍽️ Restaurant App  
 
-A new Flutter project.
+A Flutter-based restaurant app that allows users to browse the menu, add items to the cart, checkout, manage their profile, and save favorites.  
 
-## Getting Started
+ 📌 Features  
+- Browse menu  
+- View restaurant details  
+- Add items to cart  
+- Checkout  
+- User authentication  
+- Manage profile  
+- Add to favorites  
 
-This project is a starting point for a Flutter application.
+ 🚀 Getting Started  
 
-A few resources to get you started if this is your first Flutter project:
+Prerequisites  
+- Flutter installed ([Get Flutter](https://flutter.dev/docs/get-started/install))  
+- A connected device or emulator  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Installation  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 4064c15 (add resturent app)
+Clone the repository
+- git clone https://github.com/Iqra-Rafiq/mobile-app-flutter.git
+- cd mobile-app-flutter
+
+Install dependencies
+- flutter pub get
+
+Run the app
+- flutter run
+
